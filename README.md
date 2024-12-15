@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm Ankit Kumar Gupta</h1>
-<h3 align="center">Aspiring Web Developer</h3>
+<h3 align="center">Aspiring AI Developer</h3>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/ce3a4e7a6ec90f401d6dfd4865da0cc60f0647ee1dec12eb62550e489346f825/68747470733a2f2f7777772e636f6465636f726e6572732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30352f73656e696f722d66726f6e742d656e642d646576656c6f7065722d6f70656e696e67732d312e676966"
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankit96313&label=Profile%20views&color=0e75b6&style=flat" alt="ankit96313" /> </p>
 
-- I'm intrested in **Web Development**
+- I'm intrested in **AI Development**
 
 - 🌱 I’m currently learning **Python, HTML & CSS**
 
